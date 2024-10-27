@@ -26,6 +26,6 @@
 
 # Where am I deployed?
 
-<https://deploy-this-repo-blpham-92gtu0bmw-blphams-projects.vercel.app>
+<https://deploy-this-repo-blpham.vercel.app/>
 
 
